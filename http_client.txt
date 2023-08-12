@@ -1,0 +1,19 @@
+for app developers, it is crucial to make network requests via APIs
+
+inefficent way to test an API is to write the code manually
+
+many programmers use "http clients" to make requests on a GUI ->
+most popular one is POSTMAN
+but it has ton of features that not many programmers need them
+it requires you to download a seperate program which kinda defeats the purpose of integrated development environment
+
+luckily there are several different http client extensions
+one of the famous is: "THUNDER CLIENT"
+
+when installed, it will add a sign on the sidebar
+you can create a request by "New Request" button
+it keeps track of history of requests
+
+
+
+

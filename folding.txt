@@ -1,0 +1,10 @@
+if you dont want to see a block of code ... -> 
+to temporarily hide the code -> hover over left to the start of the object
+click on the down arrow icon
+
+if you want to fold everything -> Ctrl + Shift + P -> Fold All / Unfold All
+or shortcut -> Ctrl + Shift + [ -> folds
+Ctrl + Shift + ] -> unfolds
+
+
+

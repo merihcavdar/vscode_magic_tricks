@@ -1,0 +1,10 @@
+<ul>
+  <li>bullet points</li>
+  <li>bullet points</li>
+  <li>bullet points</li>
+  <li>bullet points</li>
+  <li>bullet points</li>
+  <li>bullet points</li>
+</ul>
+
+Hold down Alt key + Click on the spot where you want another cursor

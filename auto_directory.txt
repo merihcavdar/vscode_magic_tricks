@@ -1,0 +1,5 @@
+New File -> assets/images/icons
+create multiple folders in one line
+
+when deleted a file, Ctrl+Z works
+Ctrl + Shift + Z -> redo

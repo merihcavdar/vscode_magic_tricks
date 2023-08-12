@@ -1,0 +1,9 @@
+when interrogate a symbol/object/function ... 
+Ctrl + Shift + F -> for global search
+-> it may cause name collisions, too many results that you may not need
+
+Right Click -> Peek -> Peek References 
+
+Right Click -> Peek -> Peek Implementation -> for usage
+
+Right Click -> Peek -> Peek Definitions

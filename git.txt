@@ -1,0 +1,14 @@
+VS code integration with Git
+
+vs code has visual cues, shortcuts 
+git init
+
+Click on Git icon on Project Explorer
+
+Commit
+Publish Changes to push to GitHub
+
+Create branch
+Switch to another branch for large projects
+
+"Git Lens" extension, entirely optional

@@ -1,0 +1,7 @@
+at the core vs code is "file editing program"
+Ctrl+B 
+Ctrl+W -> for closing the current file
+white dot -> means unsaved/modified
+Ctrl+S
+Collapse button
+Hidden files

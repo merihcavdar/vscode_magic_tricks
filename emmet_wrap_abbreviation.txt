@@ -1,0 +1,17 @@
+<ul>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+</ul>
+
+Ctrl + Shift + P
+type "emmet"
+-> Emmet: Balance (outward)
+It will highlight towards outward

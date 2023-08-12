@@ -1,0 +1,6 @@
+without highlighting the line, Ctrl + X -> cuts the active line
+
+Hold down Alt -> Up, Down arrow to move
+
+Hold down Alt + Shift -> Up, Down arrow to copy the line
+

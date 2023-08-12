@@ -1,0 +1,28 @@
+quickly writing boilerplate code
+emmet -> especially for html
+
+Example 1:
+article>header+h1+p+p
+
+<article>
+  <header></header>
+  <h1></h1>
+  <p></p>
+  <p></p>
+</article>
+
+Example2:
+ul>li*10>lorem
+
+<ul>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+  <li>Lorem ipsum dolor...</li>
+</ul>

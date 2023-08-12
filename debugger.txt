@@ -1,0 +1,13 @@
+Built-in debugger, which is on the sidebar
+
+"Run and Debug" button
+
+"Debug Console" tab activated
+
+on the code panel, click on the Red button to insert a breakpoint
+so that it will show local and global variables on the panel
+
+Step into, Step over buttons are visible ...
+
+instead of "breakpoint", you can add "log point" with a log message
+

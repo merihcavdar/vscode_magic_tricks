@@ -1,0 +1,11 @@
+it means actually "AUTOCOMPLETE"
+document.   -> intellisense lists all the methods and properties
+hit TAB to autocomplete it
+Hover over the function, vscode will show the documentation for it
+Ctrl+Space -> bring up the intellisense
+
+strongly typed (typescript, dart) -> gets better intellisense
+dynamically typed (js, python) -> gets less intellisense
+
+explicit type needed
+

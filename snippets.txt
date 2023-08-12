@@ -1,0 +1,8 @@
+let the editor write the code for you.
+intellisense works only the relevant extension is installed.
+
+Ecosystem has a lot of snippet extensions
+
+you can create your own custom snippet
+Ctrl + Shift + P -> type "snippets"
+-> New Global Snippets File

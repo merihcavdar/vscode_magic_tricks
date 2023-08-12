@@ -1,0 +1,6 @@
+vs code detects
+typescript
+docker 
+vm ...
+
+NPM Scripts panel -> hit dev play, or build play ..

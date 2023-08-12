@@ -1,0 +1,2 @@
+Ctrl+Space -> triggers intellisense
+() -> inside parenthesis -> Ctrl+Shift+Space -> bring up parameter hints

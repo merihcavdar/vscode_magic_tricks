@@ -1,0 +1,4 @@
+another useful extension is the Docker extension
+
+to use Docker from the command line is cumbersome
+

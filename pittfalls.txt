@@ -1,0 +1,37 @@
+vs code is just a simple text editor
+tons of productivity boosters
+
+code .
+code xyz.js
+
+less mouse you use, the better
+quicker done with keyboard
+
+Ctrl + P (papa)
+type ">" -> it means "Ctrl + Shift + P"
+type "@" -> to go to any symbol
+
+#NAR -> no need to type all the letters, just camel case ones are enough
+
+Ctrl + G (Golf)
+to go to specific line
+
+Ctrl + D (delta), select other instances
+
+Holding down Alt + Clicks -> creates multiple cursors
+
+Alt + down/up arrow
+Alt + Shift + down/up arrow
+
+
+highlight lines by Ctrl + L
+then Ctrl + / to add comments
+
+Better Comments extension
+
+Toggle Terminal Ctrl + +
+
+create custom snippets/boilerplate
+
+nested directories can be created on the File Explorer panel when creating a new File
+

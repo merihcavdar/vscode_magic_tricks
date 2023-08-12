@@ -1,0 +1,6 @@
+Ctrl + P -> file list
+@ -> jump to an object/symbol that you re looking for
+
+Highlight multiple adjacent lines -> Ctrl + L
+
+go to a specific line -> Ctrl + G -> :

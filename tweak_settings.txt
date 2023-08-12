@@ -1,0 +1,4 @@
+personalising
+bottom left corner, the settings icon
+ColorTheme (favorite is Atom)
+IconTheme (vs code icon)

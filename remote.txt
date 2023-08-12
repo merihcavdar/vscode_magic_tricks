@@ -1,0 +1,8 @@
+Remote Repos
+
+on GitHub, Ctrl + K -> for command panel
+
+open vscode . -> for web version
+
+on vscode, on the bottom left corner, hit the github button to connect to remote repo
+

@@ -1,0 +1,13 @@
+Ctrl + +
+
+For example "Git Bash", "Powershell"
+
+hit the plus button for multiple sessions at the same time
+
+it may be hard to keep track of them when multiple sessions are available.
+right click -> rename
+right click -> change color
+right click -> change icon
+
+right click -> split
+

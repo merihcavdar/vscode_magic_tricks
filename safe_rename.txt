@@ -1,0 +1,3 @@
+the slowest renaming method is renaming each instance manually
+
+Right Click -> Rename or F2

@@ -1,0 +1,6 @@
+code .    -> for mac, add "code" to PATH
+code -v   -> current version
+
+code --status -> detailed info
+
+code ~/.bash_profile

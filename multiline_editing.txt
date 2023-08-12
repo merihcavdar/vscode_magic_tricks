@@ -1,0 +1,2 @@
+highlight a definition
+Ctrl + D for multiple times for selecting other instances to modify

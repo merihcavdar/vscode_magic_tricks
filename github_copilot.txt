@@ -1,0 +1,5 @@
+Snippets are awesome but they are not sophisticated.
+you can copy and paste code from the stackoverflow.com website
+
+it uses AI to scan your project and predicts the code you may want to write
+

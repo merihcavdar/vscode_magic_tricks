@@ -1,0 +1,3 @@
+Settings (Ctrl + .) -> enable bracket colorizer
+
+This is built-in already.

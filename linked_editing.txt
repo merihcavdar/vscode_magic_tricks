@@ -1,0 +1,11 @@
+<ul>
+  <li>bullet points</li>
+  <li>bullet points</li>
+  <li>bullet points</li>
+  <li>bullet points</li>
+  <li>bullet points</li>
+  <li>bullet points</li>
+</ul>
+
+Setting -> Linked Editing -> Enable
+useful especially for html/xml editing

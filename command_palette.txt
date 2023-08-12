@@ -1,0 +1,4 @@
+to use mouse distracts when coding
+ctrl+p -> list of files in the project with the recent ones at top
+"@" lists all the objects in the file
+Ctrl+Shift+P -> impossible to remember all the keyboard shortcuts
